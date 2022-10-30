@@ -1,5 +1,5 @@
 # cardProjectRocketseat
-A project made only for learning
+A project made for learning
 <h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
