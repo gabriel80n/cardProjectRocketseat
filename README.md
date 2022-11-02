@@ -1,5 +1,6 @@
 # cardProjectRocketseat
 A project made for learning
+You can see for yourself in https://card-project-gabriel80n.vercel.app/.
 <h1 align="center"> Explorer Lab #01 </h1>
 
 <p align="center">
